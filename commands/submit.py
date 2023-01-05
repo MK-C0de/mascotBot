@@ -85,7 +85,7 @@ async def leaderboard (ctx, BLOCKCHAIN):
 
     leaderboard = user.getTop(BLOCKCHAIN)
     print(leaderboard)
-    desc = 'Here lists the most active students in UwUversity!\n\n'
+    desc = 'Here lists the most active students in UTC Delta Phi Lambda!\n\n'
     count = 1
     for member in leaderboard:
         if count == 1:
@@ -128,7 +128,7 @@ async def rafflelist (ctx, BLOCKCHAIN):
             count_tickets += 1
         else: break
     
-    desc = 'Here lists the participating rafflers, the next drawing is Sunday (2/5) at 9pm EST!\n\n'
+    desc = 'Here lists the participating rafflers, the next drawing is at the end of the Semester!\n\n'
 
     desc += '\u3000\u3000\u3000\u3000\u2000 # \u3000 Name\n'
     count = 1

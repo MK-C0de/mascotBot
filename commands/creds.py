@@ -33,7 +33,7 @@ async def daily (ctx, client, BLOCKCHAIN):
         name = name,
         timestamp = today(),
         description = 'Daily',
-        data = fortune + bonus*50
+        data = fortune + bonus*10
     )
     
     """Update Blockchain"""
@@ -89,7 +89,7 @@ async def wallet (ctx, BLOCKCHAIN):
     user_wish = user.hasWish(id, BLOCKCHAIN)
 
     daily = {True:'Available', False:'Not Available'}[user.hasDaily(id, BLOCKCHAIN)]
-    desc = f'Daily UwU:\u3000\u3000**{daily}**\n\n\n\n'
+    desc = f'Daily UwU:\u3000\u3000**{daily}**\n\n'
     desc += f'Total Creds:\u3000**{user_creds}**\u3000 Total Tickets: \u3000**{user_tickets}**'
 
     BLOCKCHAIN.printChain()
