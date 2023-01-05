@@ -1,0 +1,63 @@
+Pitch a ping
+Get a list of my commands
+Show a list of music playlists
+Show MyAnimeList
+Show Seasonal anime airing right now
+Show a list of rewards you can purchase using Points
+Set your birthday, wait and see what happens
+[MONTH DAY] | EXAMPLES: [JAN 1]   [01/01]   [01-01]
+Spend 500 Points to submit an emoji to add to the server
+Spend 1000 Points to get Tech/Valorant/Academic Support
+Spend 5000 Points for a custom profile icon
+Spend 7000 Points to initiate a server event
+Spend 12000 Points to apply for Moderator application
+Spend 20000 Points to request for freelance code/art project
+Collect your daily Points
+Check how many Points you have
+DANGEROUS, WILL SNAP EVERYTHING
+Feeling generous? Give your Points
+[@<user name>] | EXAMPLES: @Dat1Weeaboo   @GreenRobotPanda
+How many Points will you spare?
+Check the registered birthday date
+Reward an user with Points, new creds
+Peek at another memeber\'s uwuCred amount, kinda
+Take some creds from a specific misdemeanor
+Submit a gameplay clip and pin for future review
+Number of kills you got in the game
+Number of deaths you got in the game
+Number of assists you got in the game
+Average Combat Score you got in the game
+Whether you want to view or submit this game, input 'view' or 'submit'
+Number of total rounds played
+Check how many val-submits you have left
+Spend Points to buy (a) raffle ticket(s), input -1 to buy max  
+Check your tickets for the current BP raffle
+Show the top wealthiest people in the server
+Give an user another submission slot
+Number of tickets you want to buy
+Allowed 1 claim a day after using all 3 submits for that day
+Number of creeps you killed
+Length of the game, round to the nearest minute. | EXAMPLE: 23:34mins --> 34
+The total number of wards placed, control wards placed, and wards killed
+Get a fortune reading!
+Give humble his daily!
+View current raffle info and list of participants!
+Add a bit of chaos to the discord...ehe
+Show the top perfroming people in the server
+Get your total score thats used for the Leaderboard
+Show the top luckiest people in the server
+Calculate your Overwatch game score and earn Points
+The chosen role that you queued up
+The total damage you dealt in the game
+The total healing you provided in the game
+The total damage you mitigated
+The round up to the nearest whole minute ex. 5 for 4mins 30s
+Put either Valorant or Overwatch
+Clip title: [Character] [Play]
+Clip link: [Medal Link]
+View your current stats and benefits
+Level Up a stat to recieve benefits
+Vitality, Stamina, Strength, Dexterity, or Fortune
+Gamble 200 Points to gain the Star Stat
+Rate a gameplay clip 1-5
+1-5, 5 being the highest
